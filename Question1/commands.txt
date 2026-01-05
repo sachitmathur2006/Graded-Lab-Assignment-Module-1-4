@@ -1,1 +1,22 @@
-
+1.1
+   whoami
+   groups
+1.2
+   pwd
+   ls -l
+1.3
+   echo "Linux user environment verified" > user_info.txt
+1.4
+   wc -m user_info.txt
+1.5
+   man mkdir
+1.6
+   ls -1 ~ | sort
+1.7
+   grep "admin" log.txt
+1.8
+   uname -r
+1.9
+   ping -c 4 www.google.com
+1.10
+   uptime
